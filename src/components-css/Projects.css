@@ -1,0 +1,77 @@
+.container {
+  position: relative;
+  /* margin-bottom: 10vh; */
+}
+
+.project {
+  padding: 8vh;
+}
+
+.main-title-projects {
+  color: #444;
+  margin: 0 0 65px 0;
+  font-size: 40px;
+  text-align: center;
+}
+
+.main-title-projects::after {
+  content: "";
+  border-top: 2px solid #333;
+  width: 8%;
+  /* display: flex; */
+  position: absolute;
+  top: 120px;
+  left: 45.9%;
+}
+
+.img-projects{
+  max-width: 100%;
+  max-height: 20vh;
+  margin-bottom: 5vh;
+  /* object-fit: contain; */
+}
+
+.main-btn-project {
+  background-color: #65DAF9;
+  justify-content: center;
+  margin-right: 1%;
+  width: 180px;
+  border: 3px solid transparent;
+  border-radius: 30px;
+  margin-bottom: 7%;
+
+}
+
+.main-btn-project:hover {
+  text-decoration: none;
+  color: #4e4e4e;
+  background-color: transparent;
+  border-color: #65DAF9;
+}
+
+.text-project {
+  font-size: 13px;
+  align-self: center;
+  align-items: center;
+}
+
+.buton-project {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(100%);
+  /* margin: 10px; */
+}
+.carousel-control-prev {
+  margin-left: -95px;
+}
+
+.carousel-control-next {
+  margin-right: -95px;
+}

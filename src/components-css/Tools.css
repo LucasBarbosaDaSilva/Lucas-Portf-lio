@@ -1,0 +1,21 @@
+.tools-img {
+  width: 180px;
+  height: 200px;
+  object-fit: contain;
+}
+
+.my-2 {
+  /* margin-left: 5px; */
+  justify-content: center;
+}
+
+.js {
+  width: 290px;
+  height: 200px;
+}
+
+.tool {
+  display: flex;
+  justify-content: center;
+  margin-bottom: -40px;
+}

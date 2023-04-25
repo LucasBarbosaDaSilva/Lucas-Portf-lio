@@ -1,0 +1,108 @@
+.carousel-img {
+  max-width: 100%;
+  max-height: 90vh;
+  /* object-fit: contain; */
+}
+
+.carousel-caption {
+  top: 25%;
+}
+
+.carousel-caption h2 {
+  font-size: 5vh;
+  margin-bottom: 30px;
+  background-color: rgba(75, 70, 78, 0.636);
+  width: 63vh;
+  border-radius: 1vh;
+}
+
+.carousel-caption p {
+  font-size: 2.5vh;
+  font-weight: 300;
+  margin-bottom: 100px;
+  color: #FFF;
+}
+
+.main-btn {
+  background-color: #65DAF9;
+  color: #FFF;
+  text-transform: uppercase;
+  width: 200vh;
+  height: 60vh;
+  padding: 1.5vh 5vh;
+  border: 3px solid transparent;
+  border-radius: 30px;
+  transition: .5s;
+  text-decoration: none;
+}
+
+.main-btn:hover {
+  text-decoration: none;
+  color: #FFF;
+  background-color: transparent;
+  border-color: #65DAF9;
+}
+
+.carousel-indicators .active {
+  background-color: #65DAF9;
+}
+
+/*Celular*/
+
+@media screen and (max-width: 480px) {
+  .carousel-caption h2 {
+    font-size: 3vh;
+    margin-bottom: 1px;
+    margin-top: -20px;
+    background-color: rgba(75, 70, 78, 0.636);
+    width: 39vh;
+    border-radius: 1vh;
+  }
+
+  .carousel-caption p {
+    font-size: 1.5vh;
+    font-weight: 300;
+    width: 40vh;
+    margin-bottom: 3.6vh;
+    color: #FFF;
+  }
+  
+}
+
+/* Mini tablet*/
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  .carousel-caption h2 {
+    font-size: 4vh;
+    margin-bottom: 30px;
+    background-color: rgba(75, 70, 78, 0.636);
+    width: 59vh;
+    border-radius: 1vh;
+  }
+
+  .carousel-caption p {
+    font-size: 1.7vh;
+    font-weight: 300;
+    margin-bottom: 3.6vh;
+    color: #FFF;
+  }
+
+  
+}
+
+/*Tablet */
+@media only screen and (min-width: 769px) and (max-width: 1200px) {
+  .carousel-caption h2 {
+    font-size: 3vh;
+    margin-bottom: 30px;
+    background-color: rgba(75, 70, 78, 0.636);
+    width: 39vh;
+    border-radius: 1vh;
+  }
+
+  .carousel-caption p {
+    font-size: 1.7vh;
+    font-weight: 300;
+    margin-bottom: 3.6vh;
+    color: #FFF;
+  }
+}

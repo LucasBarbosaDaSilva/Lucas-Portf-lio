@@ -1,0 +1,45 @@
+/*General */
+
+header, .navbar {
+  background-color: rgba(75, 70, 78, 0.636);
+  /* opacity: 1; */
+}
+
+#nav-container {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+#logo {
+  width: 280px;
+}
+
+.navbar-toggler {
+  border: solid black 1px;
+  /* border-radius: ; */
+  margin-right: 0;
+  
+}
+
+.navbar-brand {
+  padding: 0;
+  color: #FFF;
+}
+
+.navbar-brand:hover {
+  color: #FFF;
+}
+
+
+
+#navbar-links a {
+  color: #FFF;
+  font-size: 22px;
+  margin-right: 18px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding: 1rem .8rem;
+}
+
+
