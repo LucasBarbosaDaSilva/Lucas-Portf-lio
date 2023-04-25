@@ -16,7 +16,7 @@ export default function Contact() {
           <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" className="contact-img img-fluid" alt="logo-whatsapp" />
         </a>
         <a target="blank" href="https://www.linkedin.com/in/lucasbarbosa123/" className="contact-link">
-          <img src="https://johnatas-henrique.github.io/static/media/linkedinBlue.3d62fbab.png" className="contact-img img-fluid" alt="logo-linkedin" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" className="contact-img img-fluid" alt="logo-linkedin" />
         </a>
         <a target="blank" href="https://github.com/LucasBarbosaDaSilva" className="contact-link">
           <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" className="contact-img img-fluid" alt="logo-github" />
