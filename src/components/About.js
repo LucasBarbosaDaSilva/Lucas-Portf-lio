@@ -14,7 +14,7 @@ export default function About() {
             </div>
             <div className="col-md-6">
               <h3 className="about-title">Hello Everybody!🖖</h3>
-              <p>I'm Lucas Barbosa, Front-End development with knowledge in technologies such as React, RTL testing, React with Redux, ContextAPI and ReactHooks, with experience working in groups with agile methodologies such as Kanban and Scrum. </p>
+              <p>Full-Stack development with knowledge in technologies such as Node.Js,JavaScript, TypeScript, React, RTL testing, React with Redux, ContextAPI and ReactHooks, Docker, API Rest, MySQL, with experience working in groups with agile methodologies such as Kanban and Scrum. </p>
               <p> Born in Juiz de Fora, a native of Minas Gerais with a carioca influence, doesn't dispense with a good bread cheese and coffee 😋.Passionate about technology since childhood, i believe in teamwork, honest and impacting people's lives in a positive way ✌️. </p>
               <p>A bit nerdy, a bit artist, and now a bit programmer!🫰🚀</p>
               <h4 className="about-title">Some curiosities about me</h4>
