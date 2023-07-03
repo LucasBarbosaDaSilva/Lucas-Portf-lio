@@ -17,7 +17,7 @@ export default function Corrousel() {
     {
       src: pc1Image,
       title: 'About Me',
-      description: "I am a Front-End developer with experience in React and other related technologies. I have experience working in groups with agile methodologies such as Kanban and Scrum. I am passionate about technology and making a positive impact on people's lives. To learn more, click on the link below.",
+      description: "I am a Full-Stack Developer with experience in Node.Js, JavaScript, React and other related technologies. I have experience working in groups with agile methodologies such as Kanban and Scrum. I am passionate about technology and making a positive impact on people's lives. To learn more, click on the link below.",
       button: 'About',
       id:'#about-area'
     },
